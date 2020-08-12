@@ -1,7 +1,7 @@
 {
 .appVersion = "1342";
 DisplayStrings = (
-ANIO
+CANIO
 );
 date = "2020-08-12 09:57:22 +0000";
 familyName = b;
@@ -77,10 +77,58 @@ unicode = 0042;
 },
 {
 glyphname = C;
+lastChange = "2020-08-12 10:42:02 +0000";
 layers = (
 {
 layerId = "885A3D53-7FC3-46E4-AF0F-AE9834CD8E87";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"225 40 OFFCURVE",
+"303 179 OFFCURVE",
+"303 350 CURVE SMOOTH",
+"303 521 OFFCURVE",
+"225 660 OFFCURVE",
+"374 660 CURVE",
+"374 700 LINE",
+"-48 700 OFFCURVE",
+"13 543 OFFCURVE",
+"13 350 CURVE SMOOTH",
+"13 157 OFFCURVE",
+"-48 0 OFFCURVE",
+"374 0 CURVE",
+"374 40 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"740 598 OFFCURVE",
+"714 700 OFFCURVE",
+"374 700 CURVE",
+"374 660 LINE",
+"490 660 OFFCURVE",
+"468 576 OFFCURVE",
+"453 457 CURVE",
+"738 457 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"453 243 LINE",
+"468 124 OFFCURVE",
+"490 40 OFFCURVE",
+"374 40 CURVE",
+"374 0 LINE",
+"714 0 OFFCURVE",
+"740 102 OFFCURVE",
+"738 243 CURVE"
+);
+}
+);
+width = 748;
 }
 );
 unicode = 0043;

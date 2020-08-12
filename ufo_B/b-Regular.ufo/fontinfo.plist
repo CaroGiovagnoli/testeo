@@ -12,12 +12,20 @@
 	<string>b</string>
 	<key>openTypeHeadCreated</key>
 	<string>2020/08/12 11:57:22</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array/>
 	<key>postscriptFontName</key>
 	<string>b-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array/>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>unitsPerEm</key>
