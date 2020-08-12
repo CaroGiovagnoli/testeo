@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="2">
-	<advance width="600"/>
+	<advance width="592"/>
 	<unicode hex="0045"/>
 	<outline>
+		<contour>
+			<point x="370" y="700" type="curve"/>
+			<point x="30" y="700" type="line"/>
+			<point x="60" y="467"/>
+			<point x="60" y="233"/>
+			<point x="30" y="0" type="curve"/>
+			<point x="370" y="0" type="line"/>
+			<point x="340" y="233"/>
+			<point x="340" y="467"/>
+		</contour>
+		<contour>
+			<point x="562" y="500" type="curve"/>
+			<point x="562" y="700" type="line"/>
+			<point x="257" y="700" type="line"/>
+			<point x="257" y="500" type="line"/>
+			<point x="359" y="520"/>
+			<point x="460" y="520"/>
+		</contour>
+		<contour>
+			<point x="562" y="0" type="line"/>
+			<point x="562" y="200" type="line"/>
+			<point x="257" y="200" type="line"/>
+			<point x="257" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="562" y="250" type="curve"/>
+			<point x="562" y="400" type="line"/>
+			<point x="257" y="400" type="line"/>
+			<point x="257" y="250" type="line"/>
+			<point x="359" y="270"/>
+			<point x="460" y="270"/>
+		</contour>
 	</outline>
 </glyph>
